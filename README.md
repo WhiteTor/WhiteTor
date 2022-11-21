@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=f0edcc&height=250&section=header&text=WhiteTor's%20Github&fontSize=55&fontColor=02343f&animation=fadeIn)
-====================
 
 <p align="center">
     <Strong>Tech Stack</Strong><br>
